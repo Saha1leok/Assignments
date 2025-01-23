@@ -1,4 +1,4 @@
-package assignment_3.OOP_part2.Task1all;
+package Assignment3.OOP;
 
 public class Skyscraper_task1 {
 
