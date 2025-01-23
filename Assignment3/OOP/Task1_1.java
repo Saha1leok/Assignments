@@ -1,4 +1,4 @@
-package Assignments.Assignment3.OOP.Task1_1;
+package Assignment3.OOP;
 
 public class task1 {
     public static void main(String[] args) {
