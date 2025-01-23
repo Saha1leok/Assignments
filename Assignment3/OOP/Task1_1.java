@@ -1,7 +1,7 @@
 package Assignment3.OOP;
 
-public class task1 {
+public class Task1_1 {
     public static void main(String[] args) {
-        Skyscraper_task1 skyscraperTask1 = new Skyscraper_task1();
+        Skyscraper_Task1 skyscraperTask1 = new Skyscraper_Task1();
     }
 }
