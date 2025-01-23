@@ -1,10 +1,10 @@
 package Assignment3.OOP;
 
-public class Iphone {
+public class Task9_Iphone {
     public String model;
     public String color;
     public int price;
 
-    public Iphone(String x, String black, int i) {
+    public Task9_Iphone(String x, String black, int i) {
     }
 }
