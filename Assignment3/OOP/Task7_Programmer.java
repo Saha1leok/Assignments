@@ -1,6 +1,6 @@
 package Assignment3.OOP;
 
-public class Programmer {
+public class Task7_Programmer {
     private int salary = 1000;
 
     public int getSalary() {
