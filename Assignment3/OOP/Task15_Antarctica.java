@@ -1,9 +1,9 @@
 package Assignment3.OOP;
 
-public class Antarctica {
+public class Task15_Antarctica {
     private final int area;
 
-    public Antarctica(int area) {
+    public Task15_Antarctica(int area) {
         this.area = area;
     }
 
