@@ -1,4 +1,4 @@
-ackage Assignment3.Interfaces.Task18;
+package Assignment3.Interfaces.Task18;
 
 public class Person {
     public Person(String granddaughter, String granddaughter1) {
