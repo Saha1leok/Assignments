@@ -1,11 +1,11 @@
 package Assignment3.OOP;
 
-public class Bugatti {
+public class Task6_Bugatti {
         private String color = "BLACK";
         private int year = 2020;
         private String body = "Coupe";
 
-        public Bugatti() {
+        public Task6_Bugatti() {
         }
 
         public String getBody() {
